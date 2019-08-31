@@ -1,9 +1,9 @@
 # Ejercicios Estructuras de Control
 
-Nombre:
+Nombre: Antonio Manuel Zegarra Becerra
 --
 
-Github Username:
+Github Username: Antonio-Zegarra-Becerra
 --
 
 Instrucciones:
