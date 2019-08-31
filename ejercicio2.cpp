@@ -4,10 +4,11 @@
 
 using namespace std;
 
+
 vector<int> leerConsola();
 
 vector<int> leerConsola() {
-    //Ingrese un numero positivo, escriba -1 si ya no quiere ingresar mas numeros:
+
     vector<int> lista;
     int num;
     while (true) {
@@ -37,9 +38,9 @@ int moda(vector<int> &lista) {
 }
 
 
-int main() {
+int main() { 
     cout<<"Calcular la moda de los numeros ingresados:\n\n";
-    vector<int> leer_usuario = leerConsole();
+    vector<int> leer_usuario = leerConsola();
     int moda_elemento = moda(leer_usuario);
     cout<<"La moda es: "<<moda_elemento<<"\n";
 }
