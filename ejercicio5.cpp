@@ -26,5 +26,5 @@ int main() {
 
 float delta(float a,float b, float c){
  return ((pow(b, 2) - 4*a*c)/abs((pow(b, 2) - 4*a*c)));
-}   
+}    
             
